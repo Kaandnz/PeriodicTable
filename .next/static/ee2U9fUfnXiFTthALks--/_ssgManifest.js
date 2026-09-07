@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Felements\u002F[slug]","\u002Ftrends\u002F[trend]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

@@ -1,0 +1,7 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/compare/page": "/compare",
+  "/page": "/",
+  "/trends/[trend]/page": "/trends/[trend]",
+  "/elements/[slug]/page": "/elements/[slug]"
+}
